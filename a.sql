@@ -1,1 +1,1 @@
-select * FROM a where a=c
+select * FROM a where a=c and b=x
